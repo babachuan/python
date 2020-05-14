@@ -1,0 +1,2 @@
+Run号	上机时间	测序平台	机器号	样本编号	样本文库号	index号	lane号	芯片号	样本类型
+HYFMFBGX3	2017\12\13	Illumina	TPNB500129	19000001	HUMCNFWYKPEI-281-v109	281	L003	v109	样本类型
